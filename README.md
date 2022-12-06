@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Md.Tanvir Hossain Mitul</h1>
-<h3 align="center">A paasionate Manual tester from Bangladesh</h3>
+<h3 align="center">A paasionate Software Quality Assurance Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirmitul&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirmitul" /> </p>
 
-- 🔭 I’m currently working on **Manual testing**
+- 🔭 I’m currently working on **Web Automation**
 
-- 🌱 I’m currently learning **Web automation**
+- 🌱 I’m currently learning **App Automation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tanvirmitul?tab=repositories](https://github.com/tanvirmitul?tab=repositories)
 
-- 💬 Ask me about **anything Software testing techniques, Manual testing, API testing, Load testing**
+- 💬 Ask me about **anything Software testing strategies, Automation testing framework, Manual testing**
 
 - 📫 You can reach me at **tanvirhmitul96@gmail.com**
 
