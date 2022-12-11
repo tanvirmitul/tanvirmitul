@@ -15,6 +15,8 @@ I am very much passionate about to start my career as Software Quality Assurance
 
 - 📫 You can reach me at **tanvirhmitul96@gmail.com**
 
+Skills: TestNG / JUnit /Postman /JMeter / Java / OOP /C /MySQL
+
 - 📄 Know about my experiences [file:///C:/Users/WALTON/Downloads/Resume%20of%20Md.%20Tanvir%20Hossain%20Mitul.pdf](file:///C:/Users/WALTON/Downloads/Resume%20of%20Md.%20Tanvir%20Hossain%20Mitul.pdf)
 
 <h3 align="left">Connect with me:</h3>
