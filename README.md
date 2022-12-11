@@ -1,7 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirmitul&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirmitul" /> </p>
 ### Hi there 👋, My name is Md. Tanvir Hossain Mitul
 #### I'm Software Quality & Automation Engineer.
-![I'm Software Quality & Automation Engineer.]
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirmitul&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirmitul" /> </p>
 
 I am very much passionate about to start my career as Software Quality Assurance Engineer. Looking for a reputed company where I can utilize my knowledge and learning. I've skills in different stacks of Software Testing like Web Automation Testing, Manual Testing, API Testing, Performance Testing. Currently I'm learning App Automation. To become an SDET is my goal and I'm very much dedicated to achieve my goal.
