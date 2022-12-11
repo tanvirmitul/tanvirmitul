@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirmitul&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirmitul" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirmitul" alt="tanvirmitul" /></a> </p>
+<img align="right" alt="Coding" width="270" src="https://tenor.com/en-GB/view/programmer-rounded-edges-gif">
+
+I am very much passionate about to start my career as Software Quality Assurance Engineer. Looking for a reputed company where I can utilize my knowledge and learning. I've skills in different stacks of Software Testing like Web Automation Testing, Manual Testing, API Testing, Performance Testing. Currently I'm learning App Automation. To become an SDET is my goal and I'm very much dedicated to achieve my goal.
+
+- Skills: TestNG / JUnit /Postman /JMeter / Java / OOP /C /MySQL
 
 - 🔭 I’m currently working on **Web Automation**
 
 - 🌱 I’m currently learning **App Automation**
 
 - 🤝 I’m looking for reputed company **where I can utilize my knowledge and learning**
-
--  Skills: TestNG / JUnit /Postman /JMeter / Java / OOP /C /MySQL
 
 - 👨‍💻 All of my projects are available at [https://github.com/tanvirmitul?tab=repositories](https://github.com/tanvirmitul?tab=repositories)
 
