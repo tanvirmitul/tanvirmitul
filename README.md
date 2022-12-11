@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirmitul&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirmitul" /> </p>
 ### Hi there 👋, My name is Md. Tanvir Hossain Mitul
 #### I'm Software Quality & Automation Engineer.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirmitul&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirmitul" /> </p>
@@ -15,7 +14,7 @@ I am very much passionate about to start my career as Software Quality Assurance
 
 - 📫 You can reach me at **tanvirhmitul96@gmail.com**
 
-Skills: TestNG / JUnit /Postman /JMeter / Java / OOP /C /MySQL
+-  Skills: TestNG / JUnit /Postman /JMeter / Java / OOP /C /MySQL
 
 - 📄 Know about my experiences [file:///C:/Users/WALTON/Downloads/Resume%20of%20Md.%20Tanvir%20Hossain%20Mitul.pdf](file:///C:/Users/WALTON/Downloads/Resume%20of%20Md.%20Tanvir%20Hossain%20Mitul.pdf)
 
