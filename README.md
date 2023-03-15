@@ -4,19 +4,19 @@
 
 <img align="right" alt="Coding" width="270" src="https://miro.medium.com/max/1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
-I am very much passionate about to start my career as Software Quality Assurance Engineer. Looking for a reputed company where I can utilize my knowledge and learning. I've skills in different stacks of Software Testing like Web Automation Testing, Manual Testing, API Testing, Performance Testing. Currently I'm learning App Automation. To become an SDET is my goal and I'm very much dedicated to achieve my goal.
+A self motivated individual with firm understanding of testing concept, methods, automation tools and frameworks. Seeking a position in a growth oriented company where I can expand my learnings, knowledge and utilize my training & skills to contribute my best. Currently I'm learning Web automation with Selenium Python. To become an SDET is my goal and I'm very much dedicated to achieve my goal.
 
-- Skills: TestNG / JUnit /Postman /JMeter / Java / OOP /C /MySQL
+- Skills:  Appium / Cucumber / TestNG / JUnit / Postman / Rest-Assured/ Unirest / JMeter / Java / Python / C / OOP / MySQL
 
-- 🔭 I’m currently working on **Web Automation**
+- 🔭 I’m currently working on **Web Automation with Cucumber in POM model, API testing with Postman, Rest-Assured**
 
-- 🌱 I’m currently learning **App Automation**
+- 🌱 I’m currently learning **Selenium with Python**
 
 - 🤝 I’m looking for reputed company **where I can utilize my knowledge and learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tanvirmitul?tab=repositories](https://github.com/tanvirmitul?tab=repositories)
 
-- 💬 Ask me about **Software testing strategies, Automation tools & frameworks, manual testing**
+- 💬 Ask me about **Software testing strategies, automation tools & frameworks, app automation, api testing, performance testing, manual testing**
 
 - 📫 How to reach me **tanvirhmitul96@gmail.com**
 
