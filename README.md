@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Tanvir Hossain Mitul</h1>
-<h3 align="center">A passionate Software Quality & Automation Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Junior SQA Engineer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirmitul&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirmitul" /> </p>
 
 <img align="right" alt="Coding" width="270" src="https://miro.medium.com/max/1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
